@@ -1,5 +1,5 @@
 # Lista de exercícios de Python 3
-###	Exercício  #001 - Deixando tudo pronto
+#### Exercício  #001 - Deixando tudo pronto
 ###	Exercício  #002 - Respondendo ao Usuário
 ###	Exercício  #003 - Somando dois números
 ###	Exercício  #004 - Dissecando uma Variável
