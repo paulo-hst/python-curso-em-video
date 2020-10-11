@@ -1,4 +1,5 @@
 # Lista de exercícios de Python 3
+- [x] Finish my changes
 ####	- [x]	Exercício  #001 - Deixando tudo pronto
 ####	- [x]	Exercício  #002 - Respondendo ao Usuário
 ####	- [x]	Exercício  #003 - Somando dois números
