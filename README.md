@@ -1,4 +1,7 @@
 # Lista de exercícios de Python 3 - Curso em Vídeo
+
+### Exercícios disponibilizados no curso de Python do canal Curso em Vídeo do YouTube
+
 - [x]	Exercício  #001 - Deixando tudo pronto
 - [x]	Exercício  #002 - Respondendo ao Usuário
 - [x]	Exercício  #003 - Somando dois números
